@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525898480 source:c:\users\maciej\desktop\foldery\projekty na studia\codility\shortestjobfirstwithpreemption\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+
